@@ -37,9 +37,6 @@ There are several stretch goals inside `index.js`. You may work on these once yo
 Make sure you are invoking your function after defining it in order to view results in the console.
 
 ## Resources
-
-
-
 ## Submission format
 
 Follow these steps for completing your project.
